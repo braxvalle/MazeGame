@@ -1,8 +1,4 @@
-# The Maze Game
-A game created by two Holberton School students for the last trimester project.  
-[Here](https://237762.wixsite.com/mazegame) you can go to the deployed site  
-[Here](https://www.linkedin.com/feed/update/urn:li:ugcPost:6861929345468948480?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3AugcPost%3A6861929345468948480%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29) you can find a blog we made
-
+designed by chris
 ## Table of Content
 * [Environment](#environment)
 * [Installation](#installation)
