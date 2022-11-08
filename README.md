@@ -41,9 +41,5 @@ This project its similar to Wolfenstein and Doom
 ## Bugs
 Only known bug its that it shows you a segmentation fault when winning or closing the window and we couldn't find why, beside that, none other bug found.
 
-## Authors
-Xavier Figueroa - [Github](https://github.com/xefigueroa)  
-Luis Melendez - [Github](https://github.com/luismelendez94)
-
 ## License
 Public Domain. No copy write protection. 
